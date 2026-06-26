@@ -140,7 +140,7 @@ Home Page
 # 📄 Installation
 
 ```bash
-git clone https://github.com/ArnavBishnoi/SaleBox.git
+git clone https://salebox.ec.aliens.school
 
 cd SaleBox
 ```
