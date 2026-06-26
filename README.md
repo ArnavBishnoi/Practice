@@ -140,10 +140,8 @@ Home Page
 # 📄 Installation
 
 ```bash
-git clone https://salebox.ec.aliens.school
+https://salebox.ec.aliens.school
 
-cd SaleBox
-```
 
 Open **index.html** in your browser.
 
